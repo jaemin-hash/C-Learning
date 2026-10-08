@@ -13,10 +13,16 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="cp1">
+      <UniqueIdentifier>{6dcbf8c2-3d8a-45d4-b917-da067c7873ae}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test.c">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="cp1\01.c">
+      <Filter>cp1</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
