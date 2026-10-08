@@ -3,9 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Folder Name="/솔루션 항목/">
-    <File Path="REAME.md" />
-  </Folder>
   <Project Path="../cp1/cp1.vcxproj" Id="394be51e-f0a4-4b32-bfc5-3457d4821d80" />
   <Project Path="study_c.vcxproj" Id="076075e9-25b6-44ec-8773-f0cc8788505a" />
 </Solution>
